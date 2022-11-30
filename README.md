@@ -4,6 +4,10 @@ I love to read books, but sometimes I feel difficult to decide to read which boo
 
 :sparkles: Welcome to open an [issue](https://github.com/v4vong/awesome-book-lists/issues/new) to suggest book lists you found.
 
+## Science
+
+- [第一推动丛书](https://zh.m.wikipedia.org/zh-hans/%E7%AC%AC%E4%B8%80%E6%8E%A8%E5%8A%A8%E4%B8%9B%E4%B9%A6)
+
 ## Computer Science
 
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/) by Oz Nova and Myles Byrne
