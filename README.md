@@ -16,3 +16,7 @@ I love to read books, but sometimes I feel difficult to decide to read which boo
 
 - [How to become a GOOD Theoretical Physicist](https://www.goodtheorist.science/) by Gerard 't Hooft
 - [A Physics Book List: Recommendations from the Net](https://math.ucr.edu/home/baez/physics/Administrivia/booklist.html) original by Vijay Fafat
+
+## Trading and Investment
+
+- [Top 5 Books for a Budding Professional Trader](https://www.investopedia.com/articles/personal-finance/090216/top-5-books-become-professional-trader.asp)
