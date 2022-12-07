@@ -20,3 +20,4 @@ I love to read books, but sometimes I feel difficult to decide to read which boo
 ## Trading and Investment
 
 - [Top 5 Books for a Budding Professional Trader](https://www.investopedia.com/articles/personal-finance/090216/top-5-books-become-professional-trader.asp)
+- [Top 7 Books to Learn Technical Analysis](https://www.investopedia.com/articles/personal-finance/090916/top-5-books-learn-technical-analysis.asp)
